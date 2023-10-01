@@ -3,7 +3,7 @@
 <suite name="MySuite">
     <test name="MyTest">
         <classes>
-            <class name="ua.ithillel.testng.FirstTest"/>
+            <class name="SecondTest"/>
         </classes>
     </test>
 </suite>
