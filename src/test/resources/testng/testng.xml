@@ -3,7 +3,7 @@
 <suite name="MySuite">
     <test name="MyTest">
         <classes>
-            <class name="SecondTest"/>
+            <class name="JSETest"/>
         </classes>
     </test>
 </suite>
